@@ -1,5 +1,5 @@
 # nyx-fmt
-Links to the nyx formatter files
+The nyx formatter files
 
 Head over to [nyx](https://github.com/dc03/nyx) to see the whole project
 
